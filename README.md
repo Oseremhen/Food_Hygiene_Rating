@@ -1,4 +1,4 @@
-# food hygiene rating in the UK
+# Food Hygiene Rating (UK) Analysis
 
 <img width="543" alt="Screenshot 2023-01-21 at 8 16 02 AM" src="https://user-images.githubusercontent.com/106120403/213868521-a1a6ba51-f7ba-40a9-ad63-814a698a2c18.png">
 
